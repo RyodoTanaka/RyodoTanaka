@@ -1,8 +1,10 @@
 [![RyodoTanaka's github stats](https://github-readme-stats.vercel.app/api?username=RyodoTanaka)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...  
-  Univ. of Tsukuba IIT PhD student
+  CEO, CTO at OEDO Dynamics Inc.
 - 🌱 I’m currently learning ...
+  - Construction Machinary
+  - Civil Engineering
   - Multi Contact Motion Planning
   - Motion Planning
   - Optimization
